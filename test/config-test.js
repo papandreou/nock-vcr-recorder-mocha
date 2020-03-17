@@ -4,7 +4,7 @@ var assert     = require('assert');
 var request    = require('request');
 var RSVP       = require('rsvp');
 var vcr        = require('../');
-var realVcr    = require('nock-vcr-recorder');
+var realVcr    = require('nock-vcr-recorder-papandreou');
 
 describe('config', function() {
   it('changes realVcr\'s default config', function() {
