@@ -1,5 +1,5 @@
 {
-  "name": "nock-vcr-recorder-mocha",
+  "name": "nock-vcr-recorder-mocha-papandreou",
   "version": "0.3.2",
   "description": "Wrapper around nock-vcr-recorder to simplify creating vcr cassettes in mocha.",
   "main": "index.js",
